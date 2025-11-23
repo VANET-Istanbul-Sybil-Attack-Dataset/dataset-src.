@@ -1,4 +1,4 @@
-# ⚠️ Notice: Typographical Error in URL
+# Notice: Incorrect Repository URL
 
 This URL contains a **typographical error (a trailing period)** that appears in the Data Availability Statement of the published article. This error was detected on 2025-09-11. Apologies for any confusion this may have caused.
 
@@ -6,3 +6,13 @@ This URL contains a **typographical error (a trailing period)** that appears in 
 
 The correct repository URL is:
 `https://github.com/VANET-Istanbul-Sybil-Attack-Dataset/dataset-src`
+
+---
+
+### Important Notice Regarding Data and Code Availability
+
+Access to the data and code in the target repository is currently **restricted by the owner.**
+
+This action is necessary pending the resolution of a formal inquiry regarding **authorship and intellectual property rights**. The matter is being addressed through official institutional channels.
+
+Thank you for your understanding.
