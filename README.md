@@ -1,18 +1,18 @@
-# Notice: Incorrect Repository URL
+# Important Notice Regarding Data and Code Availability
 
-This URL contains a **typographical error (a trailing period)** that appears in the Data Availability Statement of the published article. This error was detected on 2025-09-11. Apologies for any confusion this may have caused.
+Access to the data and code in this repository is currently **restricted by the owner**.
 
-**Please refer to the notes section of the article itself for the correct address, or use the direct link below.**
+This action is necessary pending the resolution of a formal inquiry regarding authorship and intellectual property rights. The matter is being addressed through official institutional channels.
 
-The correct repository URL is:
-`https://github.com/VANET-Istanbul-Sybil-Attack-Dataset/dataset-src`
+Thank you for your understanding.
 
 ---
 
-### Important Notice Regarding Data and Code Availability
+## Additional Note: Incorrect Repository URL
 
-Access to the data and code in the target repository is currently **restricted by the owner.**
+This URL contains a typographical error (a trailing period) that appears in the Data Availability Statement of the published article. This error was detected on 2025-09-11. Apologies for any confusion this may have caused.
 
-This action is necessary pending the resolution of a formal inquiry regarding **authorship and intellectual property rights**. The matter is being addressed through official institutional channels.
+Please refer to the notes section of the article itself for the correct address, or use the direct link below.
 
-Thank you for your understanding.
+The correct repository URL is:
+`https://github.com/VANET-Istanbul-Sybil-Attack-Dataset/dataset-src`
